@@ -118,9 +118,9 @@ a {
     padding: 0 1em;
     line-height: 2;
 }
-#selected-text {
 
-}
+#selected-text {}
+
 #appreciation-text {
     width: 22.5em;
 }
